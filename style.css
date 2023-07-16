@@ -6,4 +6,4 @@ body {
     font-style: italic;
     color: navy;
   }
-  
+  p{text-transform: uppercase;}
